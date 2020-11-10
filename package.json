@@ -1,0 +1,23 @@
+{
+  "name": "learn",
+  "version": "1.0.0",
+  "description": "Web Automation with puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "keywords": [
+    "puppeteer",
+    "mocha",
+    "chai",
+    "automation"
+  ],
+  "author": "Hrithik",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.2.1",
+    "prettier": "^2.1.2",
+    "puppeteer": "^5.4.1"
+  }
+}
